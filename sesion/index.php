@@ -24,7 +24,7 @@ if (empty($_SESSION['progweb_2'])) {
     <title>Document</title>
     <style>
         body{
-            background-color: aliceblue;
+            background-color: pink;
         }
     </style>
 </head>
